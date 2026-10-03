@@ -9,3 +9,8 @@
 这些都是水果
 
 1
+AWSTemplateFormatVersion: "2010-09-09"
+happy
+AWSTemplateFormatVersion: "2010-09-09"
+aaa
+aaa
